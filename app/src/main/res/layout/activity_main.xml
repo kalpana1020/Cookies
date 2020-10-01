@@ -8,6 +8,7 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+    //this adds an image to the view
     <ImageView
         android:id="@+id/android_cookie_image_view"
         android:layout_width="match_parent"
